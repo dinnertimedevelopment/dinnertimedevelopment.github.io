@@ -1,0 +1,8 @@
+<svg width="114" height="112" viewBox="0 0 114 112" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="18.4346" cy="8" r="8" fill="#AFCDAB"/>
+    <circle cx="52.4346" cy="8" r="8" fill="#AFCDAB"/>
+    <path d="M18.4346 8C13.6012 8 4.93537 9 4.93457 15.5C4.93364 23.0664 16.4338 73 35.4338 72.5C54.4338 72 65.9338 20.599 65.9338 15.5C65.9338 9 57.2671 8.83333 52.4338 8" stroke="#AFCDAB" stroke-width="8"/>
+    <circle cx="95.4346" cy="68" r="14" stroke="#AFCDAB" stroke-width="8"/>
+    <circle cx="95.4346" cy="68" r="6" fill="#9EBD93"/>
+    <path d="M35.4338 72.5C34.4338 84.1667 39.3338 107.5 66.9338 107.5C85.4346 107.5 95.4346 90.5 95.4346 81.5" stroke="#AFCDAB" stroke-width="8"/>
+</svg>
